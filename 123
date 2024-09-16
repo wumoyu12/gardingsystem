@@ -1,0 +1,12 @@
+//Name:Moyu Wu
+//Start Date:9/16/24
+//End Date:
+package JAVABasic;
+
+import java.util.Scanner;
+
+public class GradingSystem {
+	Scanner input = new Scanner(System.in);
+	
+
+}
